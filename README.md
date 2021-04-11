@@ -9,4 +9,4 @@ Written with [cocos2d-x](https://github.com/cocos2d/cocos2d-x) game engine + [bo
 
 [Amazon market](https://www.amazon.com/The-Bomber-with-cool-name/dp/B075C9WCDG/ref=sr_1_7?s=mobile-apps&ie=UTF8&qid=1504962746&sr=1-7&keywords=bomber)
 
-**Sources** https://drive.google.com/open?id=0ByzFs8diZECQOUNNSm03UWVmb3c
+**Sources** https://1drv.ms/u/s!Ak9md9MbHeRThrNxwf85oqBvzHRcYw?e=TQu3NS
