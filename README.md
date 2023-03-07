@@ -1,4 +1,13 @@
 # The-Bomber-with-cool-name - https://www.amazon.com/The-Bomber-with-cool-name/dp/B075C9WCDG/
+Bomberman-like game
+- C++14
+- cocos2d-x
+- AdMob integration
+- 17000+ lines of code
+- AI based on finite state machines
+- Bonuses, levels, modes, monsters...
+- Windows and Android support
+
 ![Screenshot](screenshots/Screenshot_2017-08-30-17-35-36.png)
 ![Screenshot](screenshots/Screenshot_2017-08-30-16-44-52.png)
 ![Screenshot](screenshots/Screenshot_2017-08-30-17-16-29.png)
